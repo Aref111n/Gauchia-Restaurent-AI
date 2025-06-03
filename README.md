@@ -1,2 +1,2 @@
 # Restaurent Query Chatbot
-![UI](image_url_or_path "Optional title")
+![UI](https://github.com/Aref111n/Gauchia-Restaurent-AI/blob/main/Screenshot%202025-06-04%20054632.png)
