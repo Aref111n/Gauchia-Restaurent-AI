@@ -1,0 +1,11 @@
+langchain-community
+langchain
+faiss-cpu
+tiktoken
+python-dotenv
+pandas
+sentence-transformers
+langchain_groq
+fastapi
+pydantic
+uvicorn
